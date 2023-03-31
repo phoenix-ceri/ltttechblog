@@ -16,6 +16,8 @@ LTTTechblog is a page where users can sign up and make comments about the newst 
 ## Installation
 
 Our blog is accessible to anyone with an internet connection, and there is no need to install any software or applications to access our content. Simply visit our website at https://calm-coast-59524.herokuapp.com  to start putting out comments.
+![image](https://user-images.githubusercontent.com/117303543/229027494-d8f7c0b3-31b6-4500-88d5-02d0eb77c7b4.png)
+
 
 ## Usage
 just open and use the site!  make a comment, read others
